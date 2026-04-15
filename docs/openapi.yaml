@@ -5,6 +5,8 @@ info:
 servers:
   - url: http://localhost:3000
     description: Local development servers
+  - url: https://task-api-qa1v.onrender.com
+    description: live server
 tags:
   - name: Tasks
     description: Task-related endpoints
